@@ -1,0 +1,28 @@
+===============================================================================
+EXTENSION NAME : linecounter
+EXTENSION VERSION : 0.2.7
+-------------------------------------------------------------------------------
+count time : 2021-08-20 16:27:51
+count workspace : c:\Users\Lenovo\Desktop\Stuff\Coding\eFriend
+total files : 8
+total code lines : 124
+total comment lines : 0
+total blank lines : 23
+
+    statistics
+   |      extension|     total code|  total comment|    total blank|percent|
+   -------------------------------------------------------------------------
+   |.code-workspace|              8|              0|              0|    6.5|
+   |            .py|            114|              0|             23|     92|
+   |          .json|              1|              0|              0|   0.81|
+   |           .txt|              1|              0|              0|   0.81|
+   -------------------------------------------------------------------------
+banned_terms.txt, code is 1, comment is 0, blank is 0.
+cogs\Info.py, code is 35, comment is 0, blank is 6.
+cogs\Maintenance.py, code is 28, comment is 0, blank is 6.
+cogs\Misc.py, code is 9, comment is 0, blank is 3.
+efriend.code-workspace, code is 8, comment is 0, blank is 0.
+efriend.png, it is a binary file.
+efriend.py, code is 42, comment is 0, blank is 8.
+token.json, code is 1, comment is 0, blank is 0.
+===============================================================================
